@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>La Bàn Nhóm Hàng – Nên bán gì trên sàn</title>
+<meta name="description" content="Xếp hạng các nhóm hàng đang thịnh hành trên Shopee, TikTok Shop, Lazada, Tiki theo số liệu thị trường, cập nhật hằng tuần. Chọn kiểu người bán để biết nên làm nhóm nào trước.">
+<meta property="og:title" content="La Bàn Nhóm Hàng – Nên bán gì trên sàn">
+<meta property="og:description" content="Xếp hạng nhóm hàng thịnh hành theo số liệu thị trường, cập nhật hằng tuần.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0D6A4E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%230D6A4E'/%3E%3Cpath d='M16 6l4 10-4 10-4-10z' fill='%23F0B83A'/%3E%3Ccircle cx='16' cy='16' r='2' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Be+Vietnam+Pro:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<style>html{color-scheme:light}body{margin:0}[hidden]{display:none!important}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <span class="eyebrow" id="eyebrow">Sàn thương mại điện tử Việt Nam</span>
+    <h1>La Bàn Nhóm Hàng</h1>
+    <p class="lede">Gom số liệu doanh số, sản lượng, số gian hàng và mùa vụ của từng nhóm hàng, chấm điểm theo kiểu người bán bạn chọn, rồi xếp thứ tự nên làm trước. Số liệu được cập nhật hằng tuần. Bấm vào từng nhóm để xem số liệu gốc và việc cần làm ngay.</p>
+    <div class="meta"><span>Cập nhật: <b id="capnhat">đang tải…</b></span><span>Nguồn: Metric, YouNet ECI (4 sàn Shopee, TikTok Shop, Lazada, Tiki)</span></div>
+  </header>
+
+  <section aria-labelledby="h-mua" style="display:flex;flex-direction:column;gap:10px">
+    <h2 id="h-mua">Lịch mùa vụ sắp tới</h2>
+    <div class="season" id="season"></div>
+  </section>
+
+  <section class="panel" aria-labelledby="h-kieu">
+    <div style="display:flex;flex-direction:column;gap:4px">
+      <h2 id="h-kieu">Bạn bán hàng theo kiểu nào?</h2>
+      <p class="lede" style="font-size:14px">Mỗi kiểu đặt mức quan trọng khác nhau cho 6 tiêu chí. Kéo thanh trượt để chỉnh theo ý mình.</p>
+    </div>
+    <div class="presets" id="presets"></div>
+    <div class="weights" id="weights"></div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:14px" aria-labelledby="h-rank">
+    <div class="rank-head">
+      <div style="display:flex;flex-direction:column;gap:4px">
+        <h2 id="h-rank">Thứ tự ưu tiên</h2>
+        <p class="lede" style="font-size:14px" id="rank-sub"></p>
+      </div>
+      <div class="row"><button class="btn ghost" id="copy" type="button">Sao chép bảng xếp hạng</button><span class="toast" id="copy-msg" aria-live="polite"></span></div>
+    </div>
+    <div class="list" id="list"><div class="state">Đang tải số liệu…</div></div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:12px" aria-labelledby="h-data">
+    <div style="display:flex;flex-direction:column;gap:4px">
+      <h2 id="h-data">Thử với số liệu của bạn</h2>
+      <p class="lede" style="font-size:14px">Sửa thẳng vào ô, xếp hạng tự tính lại. Ô để trống nghĩa là chưa có số liệu, tiêu chí đó nhận điểm trung bình 5. Phần sửa chỉ lưu trên máy bạn và tự xóa khi trang có số liệu mới.</p>
+    </div>
+    <div class="tbl-wrap"><table id="tbl"></table></div>
+    <div class="row"><button class="btn ghost" id="add" type="button">Thêm nhóm hàng</button><button class="btn ghost" id="reset" type="button">Trả về số liệu gốc</button><span class="toast" id="data-msg" aria-live="polite"></span></div>
+  </section>
+
+  <section class="panel" aria-labelledby="h-cach">
+    <h2 id="h-cach">Cách chấm điểm (thang 0–10 mỗi tiêu chí)</h2>
+    <div class="method">
+      <div><b>Tăng trưởng doanh số</b><span>Tăng 0% được 0 điểm, tăng từ 60% trở lên được 10 điểm.</span></div>
+      <div><b>Nhu cầu thật</b><span>Theo tăng giảm số sản phẩm bán ra. Doanh số tăng mà sản lượng giảm nghĩa là chỉ tăng nhờ giá. Giảm 25% được 0, tăng 40% trở lên được 10.</span></div>
+      <div><b>Quy mô thị trường</b><span>Doanh số mỗi quý, tính theo bậc lũy thừa: khoảng 300 tỷ được 0, khoảng 40.000 tỷ được 10.</span></div>
+      <div><b>Cạnh tranh nhẹ</b><span>Số gian hàng có đơn giảm trong khi doanh số tăng thì người ở lại được chia phần lớn hơn. Không đổi được 5, mỗi 4% giảm cộng 1 điểm.</span></div>
+      <div><b>Hợp vốn nhỏ</b><span>Nhận định từ phân khúc giá trong báo cáo và mức độ gian hàng chính hãng chiếm lĩnh. Đây là đánh giá, không phải số đo.</span></div>
+      <div><b>Đúng mùa sắp tới</b><span>Nhận định theo dữ liệu các dịp mua sắm lớn và mùa Tết năm trước trên sàn.</span></div>
+    </div>
+    <p style="font-size:13.5px;color:var(--muted)">Ba nhóm đứng đầu là Ưu tiên 1, bốn nhóm tiếp theo là Ưu tiên 2, còn lại là Ưu tiên 3. Mũi tên cạnh tên nhóm cho biết nhóm đó lên hay xuống bao nhiêu bậc so với lần cập nhật trước.</p>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:10px" aria-labelledby="h-ls">
+    <h2 id="h-ls">Các lần cập nhật</h2>
+    <div class="hist" id="hist"></div>
+  </section>
+
+  <footer>
+    <span>Nguồn số liệu:</span>
+    <span id="sources"></span>
+    <span>Số liệu sàn là ước tính của các đơn vị nghiên cứu thị trường, chỉ dùng để định hướng, không phải lời khuyên đầu tư.</span>
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
