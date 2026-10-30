@@ -1,0 +1,111 @@
+[
+  {
+    "ngay": "2026-10-30",
+    "nhomHang": {
+      "thucpham": {
+        "doanhSoQuy": 29400,
+        "tangDoanhSo": 36,
+        "tangSanLuong": 18,
+        "thayDoiGianHang": null,
+        "hopVonNho": 7,
+        "dungMua": 9
+      },
+      "nhacua": {
+        "doanhSoQuy": 18840,
+        "tangDoanhSo": 41.15,
+        "tangSanLuong": null,
+        "thayDoiGianHang": null,
+        "hopVonNho": 7,
+        "dungMua": 9
+      },
+      "tet": {
+        "doanhSoQuy": 251,
+        "tangDoanhSo": 77,
+        "tangSanLuong": 106,
+        "thayDoiGianHang": 9,
+        "hopVonNho": 9,
+        "dungMua": 10
+      },
+      "thoitrangnu": {
+        "doanhSoQuy": 20175,
+        "tangDoanhSo": 49.65,
+        "tangSanLuong": -21.43,
+        "thayDoiGianHang": null,
+        "hopVonNho": 6,
+        "dungMua": 8
+      },
+      "giadung": {
+        "doanhSoQuy": 7967,
+        "tangDoanhSo": 51.4,
+        "tangSanLuong": 2.6,
+        "thayDoiGianHang": -13.9,
+        "hopVonNho": 3,
+        "dungMua": 6
+      },
+      "lamdep": {
+        "doanhSoQuy": 18900,
+        "tangDoanhSo": 28,
+        "tangSanLuong": null,
+        "thayDoiGianHang": null,
+        "hopVonNho": 4,
+        "dungMua": 8
+      },
+      "thucung": {
+        "doanhSoQuy": 1922,
+        "tangDoanhSo": 38.2,
+        "tangSanLuong": -6.9,
+        "thayDoiGianHang": -9,
+        "hopVonNho": 9,
+        "dungMua": 4
+      },
+      "phukien": {
+        "doanhSoQuy": null,
+        "tangDoanhSo": 56.95,
+        "tangSanLuong": -3.15,
+        "thayDoiGianHang": null,
+        "hopVonNho": 8,
+        "dungMua": 7
+      },
+      "thoitrangtreem": {
+        "doanhSoQuy": null,
+        "tangDoanhSo": null,
+        "tangSanLuong": null,
+        "thayDoiGianHang": null,
+        "hopVonNho": 7,
+        "dungMua": 8
+      },
+      "thoitrangnam": {
+        "doanhSoQuy": null,
+        "tangDoanhSo": null,
+        "tangSanLuong": null,
+        "thayDoiGianHang": null,
+        "hopVonNho": 6,
+        "dungMua": 7
+      },
+      "laptop": {
+        "doanhSoQuy": null,
+        "tangDoanhSo": 59.75,
+        "tangSanLuong": 21.46,
+        "thayDoiGianHang": null,
+        "hopVonNho": 2,
+        "dungMua": 5
+      },
+      "dienthoai": {
+        "doanhSoQuy": null,
+        "tangDoanhSo": 49.24,
+        "tangSanLuong": 118.16,
+        "thayDoiGianHang": null,
+        "hopVonNho": 1,
+        "dungMua": 6
+      },
+      "vpp": {
+        "doanhSoQuy": null,
+        "tangDoanhSo": 41.44,
+        "tangSanLuong": -10.02,
+        "thayDoiGianHang": null,
+        "hopVonNho": 9,
+        "dungMua": 3
+      }
+    }
+  }
+]

@@ -1,0 +1,347 @@
+{
+  "capNhat": "2026-10-30",
+  "kyDuLieu": "đến quý III/2026",
+  "nguon": [
+    {
+      "ten": "Metric – Thương mại điện tử 9 tháng 2026",
+      "url": "https://doanhnhan.baophapluat.vn/thuong-mai-dien-tu-viet-nam-dat-442-000-ty-dong-sau-9-thang-cuoc-dua-dang-chuyen-sang-hang-gia-tri-cao.html"
+    },
+    {
+      "ten": "YouNet ECI quý III/2026",
+      "url": "https://www.vcci.com.vn/tin-tuc/thuong-mai-dien-tu-9-thang-doanh-thu-khoi-sac-nha-ban-hang-don-song-mua-vu"
+    },
+    {
+      "ten": "Metric 6 tháng đầu 2026",
+      "url": "https://onetik.vn/bao-cao-tmdt-6-thang-dau-nam-2026-va-du-bao-quy-iii.html"
+    },
+    {
+      "ten": "Metric – Mua sắm Tết Bính Ngọ 2026",
+      "url": "https://doanhnhan.baophapluat.vn/sam-tet-binh-ngo-2026-nguoi-viet-chi-67-700-ty-dong-tren-san-tmdt-hang-hoa-linh-vat-ngua-chay-hang.html"
+    },
+    {
+      "ten": "Số gian hàng quý III/2026",
+      "url": "https://doanhnghieptiepthi.vn/hon-56000-gian-hang-roi-cuoc-dua-khi-thuong-mai-dien-tu-tang-truong-manh-161261029160543569.htm"
+    }
+  ],
+  "lichMuaVu": [
+    {
+      "ten": "Ngày đôi 11/11",
+      "ngay": "2026-11-11",
+      "moTa": "Đợt giảm giá lớn của các sàn"
+    },
+    {
+      "ten": "Thứ Sáu Đen",
+      "ngay": "2026-11-27",
+      "moTa": "Giảm giá cuối tháng 11"
+    },
+    {
+      "ten": "Mở cửa sổ hàng Tết",
+      "ngay": "2026-12-05",
+      "moTa": "9 tuần trước Tết, hàng Tết bắt đầu bán mạnh",
+      "noiBat": true
+    },
+    {
+      "ten": "Ngày đôi 12/12",
+      "ngay": "2026-12-12",
+      "moTa": "Đợt giảm giá cuối năm"
+    },
+    {
+      "ten": "Giáng sinh",
+      "ngay": "2026-12-25",
+      "moTa": "Quà tặng, trang trí"
+    },
+    {
+      "ten": "Tết Đinh Mùi",
+      "ngay": "2027-02-06",
+      "moTa": "Mùng 1 Tết; đỉnh mua hàng Tết kết thúc khoảng 09/01",
+      "noiBat": true
+    }
+  ],
+  "nhomHang": [
+    {
+      "id": "thucpham",
+      "ten": "Bách hóa – Thực phẩm (hàng tiêu dùng nhanh)",
+      "doanhSoQuy": 29400,
+      "tangDoanhSo": 36,
+      "tangSanLuong": 18,
+      "thayDoiGianHang": null,
+      "hopVonNho": 7,
+      "dungMua": 9,
+      "soLieu": [
+        "Quý III/2026: doanh số 29.400 tỷ, tăng 36%, nhóm tăng nhanh nhất",
+        "Giá bán tăng 17%, sản lượng tăng 18%: tăng cả lượng lẫn giá",
+        "6 tháng đầu năm: doanh số tăng 60,96%, sản lượng tăng 39,59%",
+        "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất"
+      ],
+      "nguon": "YouNet ECI quý III/2026; Metric 6 tháng 2026",
+      "nenLam": [
+        "Làm giỏ quà Tết, hộp quà biếu theo mức giá 300.000–1.000.000 đồng",
+        "Hạt, đồ khô, đặc sản địa phương đóng gói đẹp, bán theo combo",
+        "Đăng bán từ giữa tháng 11 để kịp người đặt quà doanh nghiệp"
+      ],
+      "luuY": "Thực phẩm cần giấy tờ an toàn thực phẩm và ghi hạn dùng rõ ràng.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "nhacua",
+      "ten": "Nhà cửa – Đời sống",
+      "doanhSoQuy": 18840,
+      "tangDoanhSo": 41.15,
+      "tangSanLuong": null,
+      "thayDoiGianHang": null,
+      "hopVonNho": 7,
+      "dungMua": 9,
+      "soLieu": [
+        "6 tháng đầu năm: doanh số 37.679 tỷ, tăng 41,15%, đứng thứ 3 toàn sàn",
+        "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất",
+        "Chưa có số liệu sản lượng"
+      ],
+      "nguon": "Metric 6 tháng 2026; Metric mùa Tết Bính Ngọ 2026",
+      "nenLam": [
+        "Đồ trang trí Tết, đèn, cành đào mai giả, câu đối, lịch treo",
+        "Đồ dọn nhà cuối năm: hộp sắp xếp, giá kệ, khăn, rèm",
+        "Vào hàng trang trí từ đầu tháng 12, cao điểm 4–9 tuần trước Tết"
+      ],
+      "luuY": "",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "tet",
+      "ten": "Hàng Tết theo linh vật năm Đinh Mùi (con Dê)",
+      "doanhSoQuy": 251,
+      "tangDoanhSo": 77,
+      "tangSanLuong": 106,
+      "thayDoiGianHang": 9,
+      "hopVonNho": 9,
+      "dungMua": 10,
+      "soLieu": [
+        "Tết Bính Ngọ 2026, hàng linh vật Ngựa: 251 tỷ trong 6 tuần (15/12/2025–25/01/2026)",
+        "Doanh số tăng 77%, sản lượng tăng 106% so với 6 tuần liền trước (không phải so cùng kỳ năm trước)",
+        "Số người bán tăng 9%, hơn 14.000 người bán",
+        "Bán chạy: móc khóa, bao lì xì, ốp điện thoại, áo đỏ đồng phục gia đình, đồ trẻ em in hình linh vật, lịch Tết"
+      ],
+      "nguon": "Metric mùa Tết Bính Ngọ 2026 (Shopee và TikTok Shop)",
+      "nenLam": [
+        "Đặt xưởng in bao lì xì, móc khóa, thú bông hình con Dê ngay từ bây giờ",
+        "Áo đỏ đồng phục gia đình in hình Dê, chụp ảnh mẫu cả nhà mặc",
+        "Cửa sổ bán đỉnh: khoảng 05/12/2026 đến 09/01/2027"
+      ],
+      "luuY": "Hàng theo mùa, sau Tết gần như hết người mua: nhập vừa đủ, không ôm tồn kho.",
+      "ghiChuDoanhSo": "cả mùa Tết năm trước, khoảng 6 tuần"
+    },
+    {
+      "id": "thoitrangnu",
+      "ten": "Thời trang nữ",
+      "doanhSoQuy": 20175,
+      "tangDoanhSo": 49.65,
+      "tangSanLuong": -21.43,
+      "thayDoiGianHang": null,
+      "hopVonNho": 6,
+      "dungMua": 8,
+      "soLieu": [
+        "6 tháng đầu năm: doanh số 40.351 tỷ, tăng 49,65%",
+        "Sản lượng giảm 21,43%: doanh số tăng chủ yếu nhờ giá",
+        "Quý III/2026 nhóm thời trang và phụ kiện: 39.300 tỷ, tăng 29%, số đơn bắt đầu chững",
+        "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất"
+      ],
+      "nguon": "Metric 6 tháng 2026; YouNet ECI quý III/2026",
+      "nenLam": [
+        "Áo dài cách tân, váy đỏ đi chơi Tết",
+        "Tập trung khách cũ, tăng giá trị mỗi đơn bằng combo phối đồ",
+        "Quay video thử đồ ngắn cho TikTok Shop"
+      ],
+      "luuY": "Sản lượng đang giảm: không nên ôm nhiều mẫu, chọn ít mẫu chủ lực.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "giadung",
+      "ten": "Điện gia dụng",
+      "doanhSoQuy": 7967,
+      "tangDoanhSo": 51.4,
+      "tangSanLuong": 2.6,
+      "thayDoiGianHang": -13.9,
+      "hopVonNho": 3,
+      "dungMua": 6,
+      "soLieu": [
+        "Quý III/2026: doanh số 7.966,7 tỷ, tăng 51,4%",
+        "Sản lượng chỉ tăng 2,6%; số gian hàng giảm 13,9% còn 47.500",
+        "Sản phẩm từ 1 triệu đồng trở lên chiếm 57,7% doanh số"
+      ],
+      "nguon": "Metric quý III/2026",
+      "nenLam": [
+        "Nồi chiên không dầu, máy hút bụi cầm tay, máy lọc không khí làm quà Tết",
+        "Bán kèm bảo hành rõ ràng để cạnh tranh với gian hàng chính hãng",
+        "Phù hợp người có vốn hoặc làm đại lý hãng"
+      ],
+      "luuY": "Vốn mỗi sản phẩm cao, rủi ro đổi trả và bảo hành.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "lamdep",
+      "ten": "Làm đẹp",
+      "doanhSoQuy": 18900,
+      "tangDoanhSo": 28,
+      "tangSanLuong": null,
+      "thayDoiGianHang": null,
+      "hopVonNho": 4,
+      "dungMua": 8,
+      "soLieu": [
+        "Quý III/2026: doanh số 18.900 tỷ (không gồm chăm sóc cá nhân), tăng 28%, số đơn chững lại",
+        "6 tháng đầu năm: 49.508 tỷ, tăng 38,44%, ngành lớn nhất toàn sàn",
+        "Dịp Tết 2026 đứng đầu 5 ngành chiếm thị phần lớn nhất"
+      ],
+      "nguon": "YouNet ECI quý III/2026; Metric 6 tháng 2026",
+      "nenLam": [
+        "Bộ quà mỹ phẩm Tết đóng hộp",
+        "Chỉ nhập hàng có nguồn gốc rõ, hóa đơn đầy đủ",
+        "Phù hợp người làm nội dung giới thiệu, phát trực tiếp"
+      ],
+      "luuY": "Gian hàng chính hãng áp đảo, hàng giả bị phạt nặng: rủi ro cao cho hộ nhỏ.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "thucung",
+      "ten": "Chăm sóc thú cưng",
+      "doanhSoQuy": 1922,
+      "tangDoanhSo": 38.2,
+      "tangSanLuong": -6.9,
+      "thayDoiGianHang": -9,
+      "hopVonNho": 9,
+      "dungMua": 4,
+      "soLieu": [
+        "Quý III/2026: doanh số 1.921,5 tỷ, tăng 38,2%",
+        "Sản lượng giảm 6,9%; số gian hàng giảm 9% còn 20.700",
+        "58,2% doanh số đến từ sản phẩm dưới 200.000 đồng",
+        "Thức ăn lớn nhất (795 tỷ), rồi phụ kiện (481 tỷ), vệ sinh (183 tỷ)"
+      ],
+      "nguon": "Metric quý III/2026",
+      "nenLam": [
+        "Thức ăn hạt, pa tê bán theo gói định kỳ hằng tháng",
+        "Phụ kiện: dây dắt, bát ăn, quần áo Tết cho chó mèo",
+        "Lập nhóm Zalo khách quen để bán lại đều đặn"
+      ],
+      "luuY": "Ít người bán hơn, giá thấp, khách mua lặp lại: hợp hộ nhỏ.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "phukien",
+      "ten": "Phụ kiện thời trang",
+      "doanhSoQuy": null,
+      "tangDoanhSo": 56.95,
+      "tangSanLuong": -3.15,
+      "thayDoiGianHang": null,
+      "hopVonNho": 8,
+      "dungMua": 7,
+      "soLieu": [
+        "6 tháng đầu năm: doanh số tăng 56,95%, sản lượng giảm 3,15%",
+        "Chưa có số liệu doanh số tuyệt đối"
+      ],
+      "nguon": "Metric 6 tháng 2026",
+      "nenLam": [
+        "Túi, ví, kẹp tóc, trang sức bạc nhỏ làm quà tặng",
+        "Đóng hộp quà sẵn cho dịp Noel và Tết"
+      ],
+      "luuY": "",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "thoitrangtreem",
+      "ten": "Thời trang trẻ em",
+      "doanhSoQuy": null,
+      "tangDoanhSo": null,
+      "tangSanLuong": null,
+      "thayDoiGianHang": null,
+      "hopVonNho": 7,
+      "dungMua": 8,
+      "soLieu": [
+        "Quý I/2026: TikTok Shop vượt Shopee dẫn đầu ngành này",
+        "Dịp Tết 2026 tăng trưởng mạnh (báo cáo không nêu con số)"
+      ],
+      "nguon": "Metric quý I/2026; Metric mùa Tết Bính Ngọ 2026",
+      "nenLam": [
+        "Áo dài trẻ em, bộ đồ đỏ in linh vật Dê",
+        "Bán theo bộ áo gia đình bố mẹ và con"
+      ],
+      "luuY": "Thiếu số liệu: điểm phần lớn là mức trung bình.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "thoitrangnam",
+      "ten": "Thời trang nam",
+      "doanhSoQuy": null,
+      "tangDoanhSo": null,
+      "tangSanLuong": null,
+      "thayDoiGianHang": null,
+      "hopVonNho": 6,
+      "dungMua": 7,
+      "soLieu": [
+        "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất",
+        "Chưa có số liệu tăng trưởng năm 2026"
+      ],
+      "nguon": "Metric mùa Tết Bính Ngọ 2026",
+      "nenLam": [
+        "Áo sơ mi, áo len, quần âu làm quà Tết cho bố, chồng"
+      ],
+      "luuY": "Thiếu số liệu: điểm phần lớn là mức trung bình.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "laptop",
+      "ten": "Máy tính xách tay và thiết bị văn phòng",
+      "doanhSoQuy": null,
+      "tangDoanhSo": 59.75,
+      "tangSanLuong": 21.46,
+      "thayDoiGianHang": null,
+      "hopVonNho": 2,
+      "dungMua": 5,
+      "soLieu": [
+        "6 tháng đầu năm: doanh số tăng 59,75%, sản lượng tăng 21,46%"
+      ],
+      "nguon": "Metric 6 tháng 2026",
+      "nenLam": [
+        "Phụ kiện đi kèm giá thấp: chuột, bàn phím, giá đỡ, túi chống sốc"
+      ],
+      "luuY": "Máy chính cần vốn lớn và gian hàng chính hãng chiếm lĩnh; hộ nhỏ chỉ nên làm phụ kiện.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "dienthoai",
+      "ten": "Điện thoại và máy tính bảng",
+      "doanhSoQuy": null,
+      "tangDoanhSo": 49.24,
+      "tangSanLuong": 118.16,
+      "thayDoiGianHang": null,
+      "hopVonNho": 1,
+      "dungMua": 6,
+      "soLieu": [
+        "6 tháng đầu năm: doanh số tăng 49,24%, sản lượng tăng 118,16%"
+      ],
+      "nguon": "Metric 6 tháng 2026",
+      "nenLam": [
+        "Ốp lưng, cường lực, sạc cáp: vốn nhỏ, đi theo làn sóng máy mới"
+      ],
+      "luuY": "Máy chính gần như chỉ dành cho gian hàng chính hãng.",
+      "ghiChuDoanhSo": null
+    },
+    {
+      "id": "vpp",
+      "ten": "Văn phòng phẩm",
+      "doanhSoQuy": null,
+      "tangDoanhSo": 41.44,
+      "tangSanLuong": -10.02,
+      "thayDoiGianHang": null,
+      "hopVonNho": 9,
+      "dungMua": 3,
+      "soLieu": [
+        "6 tháng đầu năm: doanh số tăng 41,44%, sản lượng giảm 10,02%"
+      ],
+      "nguon": "Metric 6 tháng 2026",
+      "nenLam": [
+        "Để dành cho mùa tựu trường tháng 7–8/2027",
+        "Cuối năm chỉ hợp sổ tay, lịch bàn làm quà"
+      ],
+      "luuY": "Mùa chính đã qua.",
+      "ghiChuDoanhSo": null
+    }
+  ]
+}
