@@ -1,7 +1,27 @@
 {
-  "capNhat": "2026-10-30",
+  "capNhat": "2026-11-01",
   "kyDuLieu": "đến quý III/2026",
   "nguon": [
+    {
+      "ten": "Metric quý III/2026 theo ngành hàng (Người Quan Sát, 29/10/2026)",
+      "url": "https://nguoiquansat.vn/nguoi-viet-chi-gan-442-000-ty-mua-hang-tren-4-san-tmdt-tiktok-shop-ap-sat-shopee-voi-khoang-cach-gan-2-324946.html"
+    },
+    {
+      "ten": "Metric – Thú cưng quý III/2026 (Dân trí, 31/10/2026)",
+      "url": "https://dantri.com.vn/kinh-doanh/gan-2000-ty-dong-do-vao-thi-truong-cham-soc-thu-cung-truc-tuyen-trong-3-thang-20261031182849507.htm"
+    },
+    {
+      "ten": "Metric 9 tháng 2026 (VnEconomy, 29/10/2026)",
+      "url": "https://vneconomy.vn/4-san-thuong-mai-dien-tu-lon-thu-ve-442-nghin-ty-dong-trong-9-thang.htm"
+    },
+    {
+      "ten": "Metric quý III/2026 (Doanh nghiệp và Kinh tế xanh, 31/10/2026)",
+      "url": "https://doanhnghiepkinhtexanh.vn/thuong-mai-dien-tu-mo-rong-quy-mo-loi-the-dan-thuoc-ve-cac-gian-hang-lon-a55271.html"
+    },
+    {
+      "ten": "YouNet ECI 9 tháng 2026 (Góc nhìn pháp lý, 26/10/2026)",
+      "url": "https://gocnhinphaply.nguoiduatin.vn/shopee-tiktok-shop-thu-hang-tram-nghin-ty-dong-he-lo-thay-doi-bat-ngo-cua-nguoi-mua-sam-54656.html"
+    },
     {
       "ten": "Metric – Thương mại điện tử 9 tháng 2026",
       "url": "https://doanhnhan.baophapluat.vn/thuong-mai-dien-tu-viet-nam-dat-442-000-ty-dong-sau-9-thang-cuoc-dua-dang-chuyen-sang-hang-gia-tri-cao.html"
@@ -51,29 +71,44 @@
       "moTa": "Quà tặng, trang trí"
     },
     {
+      "ten": "Tết Dương lịch 2027",
+      "ngay": "2027-01-01",
+      "moTa": "Đợt khuyến mãi đầu năm, quà tặng"
+    },
+    {
+      "ten": "Ông Công Ông Táo",
+      "ngay": "2027-01-30",
+      "moTa": "23 tháng Chạp; hạn chót giao hàng Tết, sau ngày này đơn Tết giảm nhanh"
+    },
+    {
       "ten": "Tết Đinh Mùi",
       "ngay": "2027-02-06",
       "moTa": "Mùng 1 Tết; đỉnh mua hàng Tết kết thúc khoảng 09/01",
       "noiBat": true
+    },
+    {
+      "ten": "Lễ Tình nhân",
+      "ngay": "2027-02-14",
+      "moTa": "Quà tặng, hoa, socola, trang sức; ngay sau kỳ nghỉ Tết"
     }
   ],
   "nhomHang": [
     {
       "id": "thucpham",
       "ten": "Bách hóa – Thực phẩm (hàng tiêu dùng nhanh)",
-      "doanhSoQuy": 29400,
-      "tangDoanhSo": 36,
-      "tangSanLuong": 18,
+      "doanhSoQuy": 11456,
+      "tangDoanhSo": 80.6,
+      "tangSanLuong": 49.5,
       "thayDoiGianHang": null,
       "hopVonNho": 7,
       "dungMua": 9,
       "soLieu": [
-        "Quý III/2026: doanh số 29.400 tỷ, tăng 36%, nhóm tăng nhanh nhất",
-        "Giá bán tăng 17%, sản lượng tăng 18%: tăng cả lượng lẫn giá",
-        "6 tháng đầu năm: doanh số tăng 60,96%, sản lượng tăng 39,59%",
+        "Quý III/2026 (Metric, 4 sàn): doanh số khoảng 11.456 tỷ, tăng 80,6%, nhóm tăng nhanh nhất",
+        "Sản lượng tăng 49,5% (VnEconomy, Dân trí, Doanh nghiệp và Kinh tế xanh); một bài khác ghi 9,5%",
+        "YouNet ECI quý III/2026, hàng tiêu dùng nhanh (định nghĩa rộng hơn): 29.400 tỷ, tăng 36%, sản lượng tăng 18%",
         "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất"
       ],
-      "nguon": "YouNet ECI quý III/2026; Metric 6 tháng 2026",
+      "nguon": "Metric quý III/2026; YouNet ECI quý III/2026",
       "nenLam": [
         "Làm giỏ quà Tết, hộp quà biếu theo mức giá 300.000–1.000.000 đồng",
         "Hạt, đồ khô, đặc sản địa phương đóng gói đẹp, bán theo combo",
@@ -85,18 +120,19 @@
     {
       "id": "nhacua",
       "ten": "Nhà cửa – Đời sống",
-      "doanhSoQuy": 18840,
-      "tangDoanhSo": 41.15,
-      "tangSanLuong": null,
+      "doanhSoQuy": 20040,
+      "tangDoanhSo": 48.3,
+      "tangSanLuong": 8.5,
       "thayDoiGianHang": null,
       "hopVonNho": 7,
       "dungMua": 9,
       "soLieu": [
-        "6 tháng đầu năm: doanh số 37.679 tỷ, tăng 41,15%, đứng thứ 3 toàn sàn",
-        "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất",
-        "Chưa có số liệu sản lượng"
+        "Quý III/2026 (Metric): doanh số 20.040 tỷ, tăng 48,3%; sản lượng tăng 8,5%",
+        "Shopee chiếm 53,1% doanh số ngành trên hai sàn Shopee và TikTok Shop",
+        "6 tháng đầu năm: 37.679 tỷ, tăng 41,15%",
+        "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất"
       ],
-      "nguon": "Metric 6 tháng 2026; Metric mùa Tết Bính Ngọ 2026",
+      "nguon": "Metric quý III/2026; Metric 6 tháng 2026",
       "nenLam": [
         "Đồ trang trí Tết, đèn, cành đào mai giả, câu đối, lịch treo",
         "Đồ dọn nhà cuối năm: hộp sắp xếp, giá kệ, khăn, rèm",
@@ -132,19 +168,19 @@
     {
       "id": "thoitrangnu",
       "ten": "Thời trang nữ",
-      "doanhSoQuy": 20175,
-      "tangDoanhSo": 49.65,
+      "doanhSoQuy": 17465,
+      "tangDoanhSo": 47.9,
       "tangSanLuong": -21.43,
       "thayDoiGianHang": null,
       "hopVonNho": 6,
       "dungMua": 8,
       "soLieu": [
-        "6 tháng đầu năm: doanh số 40.351 tỷ, tăng 49,65%",
-        "Sản lượng giảm 21,43%: doanh số tăng chủ yếu nhờ giá",
-        "Quý III/2026 nhóm thời trang và phụ kiện: 39.300 tỷ, tăng 29%, số đơn bắt đầu chững",
+        "Quý III/2026 (Metric): khoảng 17.465 tỷ, tăng 47,9%",
+        "TikTok Shop chiếm 64,5% doanh số ngành trên hai sàn Shopee và TikTok Shop",
+        "Sản lượng: chưa có số quý III; 6 tháng đầu năm giảm 21,43% (số cũ)",
         "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất"
       ],
-      "nguon": "Metric 6 tháng 2026; YouNet ECI quý III/2026",
+      "nguon": "Metric quý III/2026; Metric 6 tháng 2026",
       "nenLam": [
         "Áo dài cách tân, váy đỏ đi chơi Tết",
         "Tập trung khách cũ, tăng giá trị mỗi đơn bằng combo phối đồ",
@@ -165,11 +201,12 @@
       "soLieu": [
         "Quý III/2026: doanh số 7.966,7 tỷ, tăng 51,4%",
         "Sản lượng chỉ tăng 2,6%; số gian hàng giảm 13,9% còn 47.500",
-        "Sản phẩm từ 1 triệu đồng trở lên chiếm 57,7% doanh số"
+        "Sản phẩm từ 1 triệu đồng trở lên chiếm 57,7% doanh số",
+        "Shopee chiếm 61,8% doanh số ngành trên hai sàn Shopee và TikTok Shop"
       ],
       "nguon": "Metric quý III/2026",
       "nenLam": [
-        "Nồi chiên không dầu, máy hút bụi cầm tay, máy lọc không khí làm quà Tết",
+        "Nồi chiên không dầu, máy hút bụi cầm tay, máy lọc không khí: chạy giảm giá 11/11 và 12/12, rồi làm quà Tết",
         "Bán kèm bảo hành rõ ràng để cạnh tranh với gian hàng chính hãng",
         "Phù hợp người có vốn hoặc làm đại lý hãng"
       ],
@@ -177,20 +214,44 @@
       "ghiChuDoanhSo": null
     },
     {
+      "id": "mevabe",
+      "ten": "Mẹ và bé",
+      "doanhSoQuy": 9297,
+      "tangDoanhSo": 65.7,
+      "tangSanLuong": null,
+      "thayDoiGianHang": null,
+      "hopVonNho": 6,
+      "dungMua": 7,
+      "soLieu": [
+        "Quý III/2026 (Metric): doanh số 9.297 tỷ, tăng 65,7%",
+        "Shopee và TikTok Shop chia doanh số khá sát nhau",
+        "Chưa có số liệu sản lượng và số gian hàng"
+      ],
+      "nguon": "Metric quý III/2026",
+      "nenLam": [
+        "Đồ dùng nhỏ cho bé (yếm, khăn, bình, đồ chơi an toàn) bán theo combo, chạy giảm giá 11/11 và 12/12",
+        "Quần áo Tết, bộ đồ đỏ cho bé đăng bán từ đầu tháng 12",
+        "Bỉm, sữa: chỉ làm khi có nguồn nhập chính hãng, bán theo gói định kỳ"
+      ],
+      "luuY": "Sữa, bỉm do gian hàng chính hãng chiếm lĩnh và đòi hỏi giấy tờ nguồn gốc; hộ nhỏ nên chọn đồ dùng và quần áo.",
+      "ghiChuDoanhSo": null
+    },
+    {
       "id": "lamdep",
       "ten": "Làm đẹp",
-      "doanhSoQuy": 18900,
-      "tangDoanhSo": 28,
+      "doanhSoQuy": 24379,
+      "tangDoanhSo": 40.8,
       "tangSanLuong": null,
       "thayDoiGianHang": null,
       "hopVonNho": 4,
       "dungMua": 8,
       "soLieu": [
-        "Quý III/2026: doanh số 18.900 tỷ (không gồm chăm sóc cá nhân), tăng 28%, số đơn chững lại",
-        "6 tháng đầu năm: 49.508 tỷ, tăng 38,44%, ngành lớn nhất toàn sàn",
-        "Dịp Tết 2026 đứng đầu 5 ngành chiếm thị phần lớn nhất"
+        "Quý III/2026 (Metric, 4 sàn): khoảng 24.379 tỷ, tăng 40,8%, dẫn đầu toàn sàn",
+        "YouNet ECI quý III/2026: 18.900 tỷ (không gồm chăm sóc cá nhân), tăng 28%, số đơn chững lại",
+        "6 tháng đầu năm: 49.508 tỷ, tăng 38,44%",
+        "Chưa có số liệu sản lượng"
       ],
-      "nguon": "YouNet ECI quý III/2026; Metric 6 tháng 2026",
+      "nguon": "Metric quý III/2026; YouNet ECI quý III/2026",
       "nenLam": [
         "Bộ quà mỹ phẩm Tết đóng hộp",
         "Chỉ nhập hàng có nguồn gốc rõ, hóa đơn đầy đủ",
@@ -209,9 +270,9 @@
       "hopVonNho": 9,
       "dungMua": 4,
       "soLieu": [
-        "Quý III/2026: doanh số 1.921,5 tỷ, tăng 38,2%",
-        "Sản lượng giảm 6,9%; số gian hàng giảm 9% còn 20.700",
-        "58,2% doanh số đến từ sản phẩm dưới 200.000 đồng",
+        "Quý III/2026: doanh số 1.921,5 tỷ, tăng 38,2%; hơn 22,9 triệu sản phẩm",
+        "Sản lượng giảm 6,9%; số gian hàng giảm 9% còn 20.700; giá bán bình quân tăng khoảng 48%",
+        "58,2% doanh số đến từ sản phẩm dưới 200.000 đồng, khoảng 16% từ mức 200.000–350.000 đồng",
         "Thức ăn lớn nhất (795 tỷ), rồi phụ kiện (481 tỷ), vệ sinh (183 tỷ)"
       ],
       "nguon": "Metric quý III/2026",
@@ -275,12 +336,14 @@
       "hopVonNho": 6,
       "dungMua": 7,
       "soLieu": [
+        "Quý III/2026: TikTok Shop chiếm 68,1% doanh số ngành trên hai sàn Shopee và TikTok Shop",
         "Dịp Tết 2026 nằm trong 5 ngành chiếm thị phần lớn nhất",
         "Chưa có số liệu tăng trưởng năm 2026"
       ],
-      "nguon": "Metric mùa Tết Bính Ngọ 2026",
+      "nguon": "Metric quý III/2026; Metric mùa Tết Bính Ngọ 2026",
       "nenLam": [
-        "Áo sơ mi, áo len, quần âu làm quà Tết cho bố, chồng"
+        "Áo sơ mi, áo len, quần âu làm quà Tết cho bố, chồng",
+        "Ưu tiên bán trên TikTok Shop, nơi chiếm phần lớn doanh số ngành"
       ],
       "luuY": "Thiếu số liệu: điểm phần lớn là mức trung bình.",
       "ghiChuDoanhSo": null
@@ -314,9 +377,10 @@
       "hopVonNho": 1,
       "dungMua": 6,
       "soLieu": [
-        "6 tháng đầu năm: doanh số tăng 49,24%, sản lượng tăng 118,16%"
+        "6 tháng đầu năm: doanh số tăng 49,24%, sản lượng tăng 118,16%",
+        "Quý III/2026: Shopee chiếm 72,1% doanh số ngành trên hai sàn Shopee và TikTok Shop"
       ],
-      "nguon": "Metric 6 tháng 2026",
+      "nguon": "Metric 6 tháng 2026; Metric quý III/2026",
       "nenLam": [
         "Ốp lưng, cường lực, sạc cáp: vốn nhỏ, đi theo làn sóng máy mới"
       ],
